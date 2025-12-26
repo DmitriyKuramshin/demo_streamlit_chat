@@ -1,0 +1,4 @@
+streamlit
+openai
+elasticsearch
+psycopg2-binary
